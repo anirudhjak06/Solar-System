@@ -15,7 +15,8 @@
 - The movement of celestial bodies like the sun, stars, planets, and the others will be more easily understood if taught through visualization movement through computer animation. 
 - This visualization shows the solar system’s planetary motion which moves around the sun and remains in each orbit. We use OpenGL to represent the solar system as a visual. 
 - OpenGL supports this modeling capability as OpenGL has additional features to better produce something more realistic.
-For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]
+
+**For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
 
 [1]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20Report.pdf "Title"
 [2]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20PPT.pdf "Title"
