@@ -17,8 +17,8 @@
 - OpenGL supports this modeling capability as OpenGL has additional features to better produce something more realistic.
 For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]
 
-[1]: https://github.com/anirudhjak06/GreenGrocery/blob/main/Green%20Grocery%20Documentation.pdf "Title"
-[2]: https://github.com/anirudhjak06/GreenGrocery/blob/main/Green%20Grocery%20PPT.pdf "Title"
+[1]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20Report.pdf "Title"
+[2]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20PPT.pdf "Title"
 
 
 ## Get Started
